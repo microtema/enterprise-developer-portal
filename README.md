@@ -64,6 +64,8 @@ Propose the development of an internal Azure Portal for enterprise resources tha
 
 Explore the creation of a self-service capability, allowing business unit developers to request security development environments and cloud resources.
 
+[read more ...](./docs/Self-Service-Capabilities.md)
+
 ### Important Aspects
 
 #### Boilerplate Code and Blueprints
