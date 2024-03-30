@@ -32,6 +32,8 @@ Develop a platform enabling business unit developers to create, deploy, and run 
 
 Demonstrate how the platform ensures compliance through robust security measures
 
+[Compliance-and-Security-Focus](./docs/Compliance-and-Security-Focus.md)
+
 **Scalability**
 
 Demonstrate how the platform ensures autoscaling
