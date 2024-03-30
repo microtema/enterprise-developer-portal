@@ -4,7 +4,7 @@
 
 In the rapidly evolving landscape of business unit development, the need for a robust Developer Enterprise Platform has become imperative. This platform addresses the challenges associated with unregulated development practices, fostering a secure and compliant environment for developers. Let's explore the proposal and requirements for implementing such a platform.
 
-![benefits.png](./docs/images/benefits.png)
+![Enterprise Developer Portal](./docs/images/benefits.png)
 
 ## Scenario Overview
 
@@ -15,7 +15,8 @@ In many organizations, business unit developers create applications independentl
 ### Platform Overview
 
 **Objective**
-: Develop a platform enabling business unit developers to create, deploy, and run applications within a pre-configured IT infrastructure ensuring security and compliance
+
+Develop a platform enabling business unit developers to create, deploy, and run applications within a pre-configured IT infrastructure ensuring security and compliance
 
 **Benefits**
 * Centralized governance
@@ -28,41 +29,50 @@ In many organizations, business unit developers create applications independentl
 #### System Qualities
 
 **Compliance and Security Focus**
-: Demonstrate how the platform ensures compliance through robust security measures
+
+Demonstrate how the platform ensures compliance through robust security measures
 
 **Scalability**
-: Demonstrate how the platform ensures autoscaling
+
+Demonstrate how the platform ensures autoscaling
 
 #### Development Workflow
 
 **Code Collaboration**
-: Showcase the process of collaborative coding for business unit developers
+
+Showcase the process of collaborative coding for business unit developers
 
 **Azure DevOps Integration**
-: Explain the automatic provisioning of Azure DevOps resources for business developers
+
+Explain the automatic provisioning of Azure DevOps resources for business developers
 
 #### Cloud Infrastructure Provisioning
 
 **Automated Provisioning**
-: Highlight how the platform automates infrastructure provisioning across dev, test, and prod environments
+
+Highlight how the platform automates infrastructure provisioning across dev, test, and prod environments
 
 **Azure Portal Integration**
-: Propose the development of an internal Azure Portal for enterprise resources that meet compliance requirements
+
+Propose the development of an internal Azure Portal for enterprise resources that meet compliance requirements
 
 #### Self-Service Capability
 
 **Request Mechanism**
-: Explore the creation of a self-service capability, allowing business unit developers to request security development environments and cloud resources.
+
+Explore the creation of a self-service capability, allowing business unit developers to request security development environments and cloud resources.
 
 ### Important Aspects
 
 #### Boilerplate Code and Blueprints
 
 **Code Templates**
-: Provide boilerplate code for authentication, logging, database access, and monitoring
+
+Provide boilerplate code for authentication, logging, database access, and monitoring
 
 **Architecture Blueprints**
-: Introduce pre-defined architecture blueprints and Kubernetes solutions to expedite project initiation
+
+Introduce pre-defined architecture blueprints and Kubernetes solutions to expedite project initiation
 
 ## Key Features
 
@@ -117,4 +127,4 @@ In many organizations, business unit developers create applications independentl
 
 Conclusion
 
-: The Developer Enterprise Platform is a strategic initiative to streamline development practices, ensuring security and compliance. This comprehensive proposal outlines the platform's key features, demonstrating its ability to cater to the unique needs of business unit developers. By implementing this solution, our company is poised to credibly guide other enterprises in establishing secure and compliant Developer Enterprise Platforms.
+> The Developer Enterprise Platform is a strategic initiative to streamline development practices, ensuring security and compliance. This comprehensive proposal outlines the platform's key features, demonstrating its ability to cater to the unique needs of business unit developers. By implementing this solution, our company is poised to credibly guide other enterprises in establishing secure and compliant Developer Enterprise Platforms.
