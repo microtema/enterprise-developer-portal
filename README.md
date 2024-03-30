@@ -30,23 +30,21 @@ Develop a platform enabling business unit developers to create, deploy, and run 
 
 **Compliance and Security Focus**
 
-Demonstrate how the platform ensures compliance through robust security measures
-
-[Compliance-and-Security-Focus](./docs/Compliance-and-Security-Focus.md)
+Demonstrate how the platform ensures compliance through robust security measures [read more...](./docs/Compliance-and-Security-Focus.md)
 
 **Scalability**
 
-Demonstrate how the platform ensures autoscaling
+Demonstrate how the platform ensures autoscaling [read more ...](./docs/Scalability.md)
 
-#### Development Workflow
+#### Development Workflow [read more ...](./docs/Development-Workflow.md)
 
 **Code Collaboration**
 
-Showcase the process of collaborative coding for business unit developers
+Showcase the process of collaborative coding for business unit developers [read more ...](./docs/Code-Collaboration.md)
 
 **Azure DevOps Integration**
 
-Explain the automatic provisioning of Azure DevOps resources for business developers
+Explain the automatic provisioning of Azure DevOps resources for business developers [read more ...](./docs/Azure-DevOps-Integration.md)
 
 #### Cloud Infrastructure Provisioning
 
@@ -57,6 +55,8 @@ Highlight how the platform automates infrastructure provisioning across dev, tes
 **Azure Portal Integration**
 
 Propose the development of an internal Azure Portal for enterprise resources that meet compliance requirements
+
+[read more ...](./docs/Cloud-Infrastructure-Provisioning.md)
 
 #### Self-Service Capability
 
