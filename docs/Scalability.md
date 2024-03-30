@@ -2,7 +2,7 @@
 
 Scalability in the context of the Developer Enterprise Platform refers to the platform's ability to accommodate growth and handle increased workload efficiently while maintaining performance, reliability, and responsiveness. Below are key aspects and considerations of scalability:
 
-![Scalability](images%2FScalability.png)
+![Scalability](./images/Scalability.png)
 
 ### Elasticity of Resources:
 
